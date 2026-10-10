@@ -20,7 +20,7 @@ export default function OpenGraphImage() {
         }}
       >
         <div style={{ color: "#ff5a00", fontSize: 22, letterSpacing: 6 }}>FULL-STACK WEB DEVELOPER</div>
-        <div style={{ fontSize: 72, fontWeight: 800, marginTop: 16 }}>
+        <div style={{ display: "flex", fontSize: 72, fontWeight: 800, marginTop: 16 }}>
           BIKASH <span style={{ color: "#ff5a00" }}>KHILING</span>
         </div>
         <div style={{ marginTop: 24, fontSize: 28, color: "#cfcfcf", maxWidth: 800 }}>
